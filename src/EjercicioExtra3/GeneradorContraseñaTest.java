@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class GeneradorContraseñaTest {
 
-    // La contraseña debe tener largo de 10 caracteres
+    // La contraseña debe tener largo 10
     @Test
     void validarLargo() {
 
