@@ -11,7 +11,7 @@ import java.util.Random;
 
 public class GeneradorContraseña {
 
-    // Crea contraseñas de largo 10 caracteres que contienen numeros, mayusculas, minusculas y simbolos especiales
+    // Crea contraseña de largo 10 caracteres que contienen numeros, mayusculas, minusculas y simbolos especiales
     public static String generarContraseña() {
 
         Random random = new Random();
